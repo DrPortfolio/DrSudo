@@ -23,3 +23,4 @@ This script is currently capable of the following:
 - client-side exploitation (the soon-to-be update of the additional attack focus e.g. XSS, SQLI, etc).
 - file upload form detection, auto shell upload.
 - client-side static code analysis.
+- publicly accesible web interface of Drsudo.
