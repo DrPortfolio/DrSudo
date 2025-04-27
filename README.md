@@ -13,7 +13,9 @@ This script is currently capable of the following:
 
 **Usage:**
 
-```python sudo.py <target> e.g. python sudo.py google.com```
+```python sudo.py <target> e.g. python sudo.py google.com``` basic usage, does everything.
+
+```python sudo.py <target> -inf``` this flag will enable infinite web crawling & scraping, it will take the target domain and search for any links within the source code, it will crawl through those links and repeat the process for every link found. 
 # Future updates:
 
 - [ ] AI implementation
