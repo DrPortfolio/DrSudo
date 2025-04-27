@@ -17,6 +17,7 @@ This script is currently capable of the following:
 # Future updates:
 
 - [ ] AI implementation
+- [ ] Web crawling - in progress
 - [ ] Brute forcing
 - [ ] CVE exploitation
 - [ ] auto CVE PoC crafting (related to the CVE exploitation feature).
